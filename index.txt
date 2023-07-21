@@ -1,1 +1,2 @@
 git status用の変更
+git diff用のコマンド
