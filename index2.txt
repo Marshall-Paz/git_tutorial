@@ -3,4 +3,5 @@ git diff用のコマンド
 git ステージの変更分
 
 足りない変更分
-git merge
+conflict
+pull_request test
