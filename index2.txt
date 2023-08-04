@@ -3,6 +3,15 @@ git diff用のコマンド
 git ステージの変更分
 
 足りない変更分
+<<<<<<< HEAD
 conflict
 pull_request test
 githubflow
+=======
+<<<<<<< HEAD
+git merge
+conflict
+=======
+こんｆぃｃｔ
+>>>>>>> 381c62b (コンフリクトを追記)
+>>>>>>> 7cf25dd (index2.txt)
